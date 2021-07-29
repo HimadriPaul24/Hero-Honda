@@ -41,3 +41,14 @@ font-family: 'Poppins', sans-serif;
     color: #252B42;
     
 }
+.text-title2{
+    color: rgb(247, 28, 28) ;
+    font-size: 30px ;
+}
+.bike{
+    color:#E76F51;
+}
+.foot{
+    background-color: rgba(0, 0, 0, 0.596);
+    color: cornsilk;
+}
