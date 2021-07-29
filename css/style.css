@@ -1,0 +1,14 @@
+.img-gray{
+    filter: grayscale(100%);
+  
+}
+
+
+
+.img-size{
+    width: 149px;
+    height: 149px;
+}
+.fa-star{
+    color: #E77C40;;
+}
