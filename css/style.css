@@ -31,6 +31,12 @@ font-family: 'Poppins', sans-serif;
 .text-title{
     color: #E76F51;
 }
+.txt{
+    font-size: 60px;
+}
+.txt-2{
+    font-size:55px ;
+}
 .text-color{
     color: #6C6C6C;
 }
